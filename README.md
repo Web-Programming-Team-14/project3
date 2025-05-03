@@ -1,4 +1,4 @@
-# Team 14 - Game Show: Quiz Millionaire
+# Team 14 - Conway’s Game of Life Simulation
 
 ## Group Members:
 
@@ -8,26 +8,23 @@
 
 ## Materials:
 
-- [Website](https://codd.cs.gsu.edu/~nnguyen177/project2/objective-C/index.php)
-- [Proposal](https://drive.google.com/file/d/13K7AJD2-l8Ir1r5aXVFo9Kwy1eJiQ195/view?usp=sharing)
-- [PowerPoint](https://docs.google.com/presentation/d/1A-i0Vc9-7deuUVyEwLDBXsW8WbLI3bMT/edit?usp=sharing&ouid=115868471783120857845&rtpof=true&sd=true)
-- [Video](https://drive.google.com/file/d/14CoRrtBOpbBrCEdRVeK7Fc0hpqYa2Ijd/view?usp=sharing)
+- [Website]()
+- [Proposal]()
+- [PowerPoint]()
+- [Video]()
 
 ## Project Summary:
 
-The project centers on developing a game show website inspired by "Who Wants to be a Millionaire?" The Quiz Millionaire will feature a homepage, user login,
-signup, and logout functionalities, along with a leaderboard to display user scores. Players can start the game from a dedicated page, which will host all the
-questions. CSS animations and transitions will enhance the interactive experience.
+Our project is a dynamic and interactive simulation of Conway’s Game of Life, an iconic example of cellular automata. This web application will allow users to interact with a grid of cells that evolve based on mathematical rules. The goal is to combine front-end interactivity with back-end functionality using HTML, CSS, JavaScript, PHP, and MySQL. The application will also include user authentication, session tracking, and pattern loading.
 
 ## Key Features:
 
-- **Homepage**: Introduces users to the game and invites them to log in or sign up to participate. It will feature an interactive welcome animation.
-- **Login/Signup/Logout Pages**: Simple and user-friendly forms for account creation and authentication, guiding users smoothly through each process.
-- **Leaderboard**: Displays top players and their scores using an appealing table layout, encouraging friendly competition.
-- **Start Game Page**: Contains game’s core functionality, including the interactive question and answer interface. Each question will be displayed with answer options, and animations will provide feedback for correct or incorrect responses.
+- **Gameplay Features**: Apply Conway’s rules to transition from one generation to the next. Buttons to: Start Game, Reset Game, and Speeding Cell.
+- **User Authentication**: Secure login/signup using PHP & MySQL. Sessions to persist the login state.
 
 ## Functionalities:
 
-- **Interactive Questions**: Each question will be displayed with options for players to choose from, and animations will indicate whether their choice is correct or incorrect.
-- **User Authentication**: Users can create an account, log in, and log out securely, with user data managed for personalized game experiences.
-- **Leaderboard Updates**: Scores will be updated in real-time on the leaderboard after each game session.
+- **Responsive Grid**: Created using HTML table elements and styled with CSS Grid or Flexbox.
+- **Cell Interaction**: Click to toggle between alive (e.g., pink) and dead (e.g., gray) states.
+- **Animations**: Subtle transitions to visually represent changes per generation.
+- **Patterns**: Dropdown to load predefined patterns (Block, Blinker, Beacon, etc.).
