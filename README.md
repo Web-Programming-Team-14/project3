@@ -27,4 +27,3 @@ Our project is a dynamic and interactive simulation of Conway’s Game of Life, 
 - **Responsive Grid**: Created using HTML table elements and styled with CSS Grid or Flexbox.
 - **Cell Interaction**: Click to toggle between alive (e.g., pink) and dead (e.g., gray) states.
 - **Animations**: Subtle transitions to visually represent changes per generation.
-- **Patterns**: Dropdown to load predefined patterns (Block, Blinker, Beacon, etc.).
