@@ -4,7 +4,7 @@ Welcome to Project 3! We're thrilled to have you here. Your contributions are es
 
 ## How to Contribute
 
-If you're interested in contributing to Project 4, please follow these steps:
+If you're interested in contributing to Project 3, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
