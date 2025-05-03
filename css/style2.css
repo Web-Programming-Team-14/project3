@@ -1,0 +1,97 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+  }
+  
+  .registration {
+    background-color: #fff5d7;
+    padding: 2rem;
+    border-radius: 12px;
+    width: 50%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .error {
+    color: #e195ab;
+    font-size: 12pt;
+    margin-bottom: 1rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input_area {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    width: 100%;
+  }
+  
+  .icon {
+    width: 40px;
+    height: 35px;
+    background-color: #ffcce1;
+    border: 1px solid #e195ab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #e195ab;
+    border-radius: 5px;
+    width: calc(100% - 50px);
+    outline: none;
+  }
+  
+  input[type="submit"] {
+    background-color: #e195ab;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #ffcce1;
+    color: #333;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  a {
+    color: #e195ab;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #ffcce1;
+    text-decoration: underline;
+  }
