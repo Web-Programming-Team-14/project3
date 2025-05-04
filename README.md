@@ -8,10 +8,10 @@
 
 ## Materials:
 
-- [Website]()
-- [Proposal]()
-- [PowerPoint]()
-- [Video]()
+- [Website](https://codd.cs.gsu.edu/~nnguyen177/project3/homepage.html)
+- [Proposal](https://drive.google.com/file/d/11oAMSTzD60PD3DCpzoZXTuZZh-v7kWLs/view?usp=drive_link)
+- [Slides](https://docs.google.com/presentation/d/1OQXmIRJpXj5j3z-uhm1htSkUV8EWXToQ/edit?usp=drive_link&ouid=115868471783120857845&rtpof=true&sd=true)
+- [Video](https://drive.google.com/file/d/1zMGRhquM1pFbYsYPUhrzo_8nN9K4ZXUd/view?usp=drive_link)
 
 ## Project Summary:
 
